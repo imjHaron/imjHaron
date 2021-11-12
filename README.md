@@ -11,7 +11,7 @@ I'm jHaron.
 
 ### <img src="https://media.giphy.com/media/YoP80uNMAFnvyzCzp5/giphy.gif" width="70"> A little more about me... 
 - I'm 18 years old from Nha Trang city, VietNam.
-### <img src="https://media.giphy.com/media/YoP80uNMAFnvyzCzp5/giphy.gif" width="70"> Hobbies: 
+### <img src="https://media.giphy.com/media/sTfiH7RYHSNuZKxmKZ/giphy.gif" width="70"> Hobbies: 
 -  Watching Anime.
 -  Reading Light Novels.
 -  Playing Billiards & Volleyball.
