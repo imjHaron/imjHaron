@@ -9,9 +9,9 @@ I'm jHaron.
 [![GitHub jHaron](https://img.shields.io/github/followers/imjHaron?label=follow&style=social)](https://github.com/imjHaron)
 
 
-### <img src="https://media.giphy.com/media/PP0KT3LbN6YgU0wPKs/giphy.gif" width="70"> A little more about me... 
+### <img src="https://media.giphy.com/media/PP0KT3LbN6YgU0wPKs/giphy.gif" width="100"> A little more about me... 
 - I'm 18 years old from Nha Trang city, VietNam.
-### <img src="https://media.giphy.com/media/sTfiH7RYHSNuZKxmKZ/giphy.gif" width="70"> Hobbies: 
+### <img src="https://media.giphy.com/media/sTfiH7RYHSNuZKxmKZ/giphy.gif" width="100"> Hobbies: 
 -  Watching Anime.
 -  Reading Light Novels.
 -  Playing Billiards & Volleyball.
