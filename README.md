@@ -1,7 +1,7 @@
 <h2> Konichiwa ! <img src="https://media.giphy.com/media/dsiE2gNS7CGufTxrXA/giphy.gif" width="100"></h2>
 I'm jHaron.
 
-<img align='right' src="https://media.giphy.com/media/3og0IHgGpll0M9wuek/giphy.gif" width="500">
+<img align='right' src="https://media.giphy.com/media/3og0IHgGpll0M9wuek/giphy.gif" width="350">
 <p><em> Learn at <a href="https://www.ntu.edu.vn"> Nha Trang University </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="50">
 </br>Circus performers at <a href="https://discord.gg/4eyqFZtauP">Rạmp Xiếc Trumng Ươmng</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
 </em></p>
